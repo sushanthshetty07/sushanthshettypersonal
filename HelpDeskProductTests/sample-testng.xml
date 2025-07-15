@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="HappyFox Automation Suite">
+    <test name="Admin Portal Scenarios">
+        <classes>
+            <class name="Admin_Portal.AdminPortalTest1"/>
+            <class name="Admin_Portal.AdminPortalTest2"/>
+        </classes>
+    </test>
+</suite> 
